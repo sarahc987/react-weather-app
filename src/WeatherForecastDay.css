@@ -1,0 +1,8 @@
+.Forecast-icon {
+  display: flex;
+  justify-content: center;
+}
+
+.Forecast-day {
+  text-align: center;
+}
