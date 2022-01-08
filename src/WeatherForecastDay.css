@@ -3,6 +3,10 @@
   justify-content: center;
 }
 
+.Forecast-icon canvas {
+  margin-right: 0;
+}
+
 .Forecast-day {
   text-align: center;
 }
